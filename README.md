@@ -14,7 +14,7 @@ Users can:
 
 ## Technologies Used
 
-- Java  
+- **Java**
 
 ## How to Use
 
