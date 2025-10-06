@@ -1,14 +1,14 @@
 ***The README you are accessing is in Portuguese-BR, if you prefer to access the README in English, [click here](README.md)***
 
 
-# 🐾 Sistema de Cadastro de Animais
+# Sistema de Cadastro de Animais
 
 Este é o meu **primeiro sistema completo de CRUD em Java**.  
 O sistema permite gerenciar o cadastro de animais (gatos e cachorros) de forma simples e eficiente.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 O usuário pode:
 
@@ -20,19 +20,19 @@ O usuário pode:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java**
 
 ---
 
-## ▶️ Como Utilizar
+## Como Utilizar
 
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/PedroConsoni/Sistema-de-cadastro-de-animais.git
    ```
-## ✨ Considerações
+## Considerações
 Este projeto é uma ótima forma de praticar e consolidar os seguintes conceitos de programação:
 
 - Entrada e manipulação de dados do usuário
