@@ -1,3 +1,5 @@
+***O README que você está acessando está em inglês, caso prefira acessar o README em Português-BR, [clique aqui](README-PT-BR.md)***
+
 # Sistema de Cadastro de animais
 
 This is my **first full CRUD application in Java**. The system allows you to manage the registration of animals (cats and dogs) in a simple and efficient way.
