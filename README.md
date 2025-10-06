@@ -23,3 +23,15 @@ Users can:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/PedroConsoni/Sistema-de-cadastro-de-animais.git
+   ```
+## Considerations
+This project is a great way to practice and strengthen the following programming concepts:
+
+- User input and data handling  
+- Conditional structures (`if`, `elif`, `else`)  
+- Loop structures  
+- Creation of **classes** and **objects**  
+- Use of **inheritance** and **polymorphism**  
+- Implementation of **CRUD operations** (Create, Read, Update, Delete)  
+- Data formatting and display using the `toString()` method  
+
